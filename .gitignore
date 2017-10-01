@@ -1,0 +1,15 @@
+*~
+.svn
+.cvs
+.git
+.listing
+*.bak
+*.swp
+*.log
+.htaccess
+.DS_store
+.revision
+php.ini
+*.git
+*.sql
+/logs
