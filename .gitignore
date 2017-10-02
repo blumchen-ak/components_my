@@ -13,3 +13,4 @@ php.ini
 *.git
 *.sql
 /logs
+node_modules

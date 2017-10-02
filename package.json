@@ -1,0 +1,26 @@
+{
+  "name": "components_my",
+  "version": "1.0.0",
+  "description": "components_my",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint components/**/*.js",
+    "serve": "./node_modules/.bin/static-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blumchen-ak/components_my.git"
+  },
+  "author": "Alesya Kononovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blumchen-ak/components_my/issues"
+  },
+  "homepage": "https://github.com/blumchen-ak/components_my#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-google": "^0.9.1",
+    "node-static": "^0.7.10"
+  }
+}
